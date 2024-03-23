@@ -1,6 +1,6 @@
-numpy
-pandas
+numpy==1.26.4
+pandas==2.2.1
 streamlit
-plotly
-json
+plotly==5.20.0
+json==0.4.0
 urllib
